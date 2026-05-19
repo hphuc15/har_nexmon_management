@@ -1,4 +1,4 @@
-# nexmon_management
+# Nexmon Management
 
 Read CSI packets from Nexmon-Collection via TCP and enqueue them to the handler.
 
@@ -7,7 +7,7 @@ Read CSI packets from Nexmon-Collection via TCP and enqueue them to the handler.
 ## Structure
 ```text
 📁 nexmon_management          <!-- Block 3.3.1 -->
-├── APIs.md
+├── README.md
 ├── csi_management.py         <!-- CSI management simulation (3.3.3) -->
 ├── nexmon_collection.py      <!-- Nexmon-Collection simulation (3.1) -->
 ├── nexmon_management.py      <!-- Nexmon management implementation (3.3.1) -->
